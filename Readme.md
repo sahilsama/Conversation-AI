@@ -45,8 +45,8 @@ JARVIS-RE-J4E is an advanced AI-powered automation and chatbot system designed t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Likhithsai2580/JARVIS-RE-J4E.git
-   cd JARVIS-RE-J4E
+   git clone https://github.com/Likhithsai2580/Conversation-AI.git
+   cd Conversation-AI
    ```
 
 2. Install the required packages:
@@ -80,15 +80,14 @@ We welcome contributions to enhance the project. Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
 
-- Thanks to Pylingual for pyc to py conversion.
-- Thanks to Kaushik Shresth for encrypting Python to exe.ceAPIKey = "your-huggingface-api-key"
+    
+    "your-huggingface-api-key"
     Assistantname = "JARVIS"
     Username = "YourName"
     InputLanguage = "en"
     AssistantVoice = "en-GB-RyanNeural"
-    ```
+    
 
 ## Usage
 
